@@ -1,0 +1,9 @@
+{
+  "client_id": "https://h4nk0.github.io/oauth/todoist-client.json",
+  "client_name": "Capture",
+  "redirect_uris": ["https://h4nk0.github.io/oauth/todoist"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "data:read_write data:delete"
+}
