@@ -13,7 +13,10 @@ are served over HTTPS from a site you control. A free GitHub Pages site does it.
 Nothing here sees your Todoist password or tokens: sign-in happens on Todoist's own page, and the
 tokens go straight from Todoist to your iPhone's Keychain.
 
-## Steps
+> **Status: published 2026-10-19** at https://github.com/h4nk0/h4nk0.github.io (Pages from `main`, root).
+> To change a file, edit it here, copy it into that repository and push.
+
+## Steps (already done)
 
 1. **Create the repository.** On GitHub, create a new **public** repository named exactly
    `h4nk0.github.io`.
